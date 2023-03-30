@@ -5,6 +5,7 @@ int adj[100][100];
 
 int edges, nodes;
 
+
 int main()
 {
     int n1, n2;
@@ -59,3 +60,11 @@ int main()
 
     return 0;
 }
+/*
+0 1
+0 2
+1 3
+3 2
+0 3
+1 2
+*/
